@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaStreamSpringApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Hi Git : 04-03-24");
 		SpringApplication.run(JavaStreamSpringApplication.class, args);
 	}
 
